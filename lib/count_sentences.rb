@@ -20,4 +20,4 @@ class String
   end
 end
 
-"HI? How Are You? I am Fine.".count_sentences
+"HI? How Are You? I am Fine!!! Woo...".count_sentences
